@@ -19,7 +19,7 @@ const Aloha = () => (
             </strong>
           </h1>
           <h3>
-            Aplikasi kasir toko shop store dan restoran cafe rumah makan dengan
+            Jobtrain practicegit add shop store dan restoran cafe rumah makan dengan
             laravel php artisan.
           </h3>
           <p>
